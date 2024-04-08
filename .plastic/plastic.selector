@@ -1,0 +1,4 @@
+repository "mines@ramil@cloud"
+  path "/"
+    br "/main"
+    co "/main"
