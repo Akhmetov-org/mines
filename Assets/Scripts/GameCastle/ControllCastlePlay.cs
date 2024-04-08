@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class ControllCastlePlay : MonoBehaviour
 {
 
+//
     public static void blockAllbuttons()
     {
         for (int i = 0; i < 6; i++)
